@@ -1,0 +1,14 @@
+*.db
+*.aux
+*.log
+*.out
+__pycache__/
+*.pyc
+*.pyo
+Thumbs.db
+
+3.23/
+_scripts/
+part1/
+part2/
+part3/
